@@ -36,9 +36,9 @@ iv) Creating the new test cell view
 <img width="940" height="565" alt="image" src="https://github.com/user-attachments/assets/cc676717-11ad-44ed-aa54-b4356175317c" />
 Analog simulation by SPECTRE. • In test cell view window • Launch – ADE L(Analog Design Environment)  Execute Setup—Simulation/directory/Host A new window opens  Set the simulation window to spectre and click ok  Execute Analysis – Choose. A window opens.  Select the type and set the specifications and press OK  Execute Output s—to be plotted – Select on Schematic  Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse • Execute Simulation -- Net list and Run
 <img width="940" height="430" alt="image" src="https://github.com/user-attachments/assets/ed646588-8026-48a2-b300-394d62d3e933" />
-For Transient Analysis Settings and Output
+# For Transient Analysis Settings and Output
 <img width="571" height="701" alt="image" src="https://github.com/user-attachments/assets/6160525e-b478-4515-a483-2e2ce13889c3" />
-For DC Analysis Settings and Output
+# For DC Analysis Settings and Output
 <img width="802" height="1155" alt="image" src="https://github.com/user-attachments/assets/eb34dc14-3479-4c4e-810b-e640043663f5" />
 <img width="940" height="595" alt="image" src="https://github.com/user-attachments/assets/0cb80cd1-1cb7-447b-8abd-dd0d3f52601c" />
 
